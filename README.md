@@ -1,6 +1,5 @@
 ## 📚 A Full-Stack Project to Display Books and Authors
 
-<br >
 
 ### Project Description:
 
