@@ -1,2 +1,17 @@
-A GraphQL full-stack application to display books and authors
-Tech: a GraphQL server on Node.js, a React front-end (with Apollo) and MongoDB to store all of our data
+## 📚 A Full-Stack Project to Display Books and Authors
+
+<br >
+
+### Project Description:
+
+This Project allows users to browse all the books stored in our database. Users can click on the book name to view more detail about the book and the book's author's information. This Project also allows users to add more books to the database.
+<br>
+
+### Tech Stack:
+
+- React
+- ExpressJS
+- MongoDB
+- GraphQL(Apollo)
+
+<img src="./graphql.gif" alt="Video Walkthrough"/>
